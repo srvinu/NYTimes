@@ -1,0 +1,13 @@
+.jumbotron{
+  background-color: navy;
+  color: white;
+  text-align: center;
+
+}
+h1{
+  font-size: 70px;
+}
+img {
+  width: 10%;
+  float: left;
+}
